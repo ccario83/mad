@@ -3,6 +3,8 @@ An automated program designed to detect allele peaks in genescan files for popul
 
 _Problem_: I need to find the molecular weights of sample peaks in hundreds of genescan files in a way that is both accurate and consistent.
 
+![Problem](problem.jpg)
+
 _Solution_: A program that creates a simple excel sheet that contains all peak Molecular Weights and information.
 
 

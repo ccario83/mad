@@ -23,3 +23,15 @@ A test was performed on over 150 samples, comparing the program's allele calls w
 ## The Program
 
 THIS PROGRAM IS DISTRIBUTED AS IS. USE AT YOUR OWN RISK. Feel free to see how different configurations perform for your data. There is no support provided with this software, but feel free to email me about any specific questions or concerns. I am always interested to hear feedback.
+
+__The main perl script__ - _peak_detect12.pl_
+
+__The configuration file__ - _PeakDetect.conf_
+
+__The user manaul__ - _Microsat Allele Detector Protocol.doc_
+
+__The write to database script__ - _writedb.pl_
+
+__Sample input files (zipped)__ - _SampleInput.zip_
+
+Please email me with any questions, ideas, or concerns: clint.cario @t gmail.com 
